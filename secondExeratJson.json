@@ -1,0 +1,52 @@
+[
+    {
+        "class":
+            {
+                {
+                    "name": "Amir"
+                    "grades":
+                    {
+                        "math 5 points":90
+                        "hebrew":88
+                        "english": 86
+                        "bible":95
+                        "sport":70
+                    }
+                }   
+    
+                {
+                    "name": "Aviv"
+                    "grades":
+                    {
+                        "math 5 points":80
+                        "hebrew":90
+                        "english": 100
+                        "bible":95
+                        "sport":50
+                    }
+                }
+            }
+        "class":
+                {
+                    "name": "Amit"
+                    "grades":
+                    {
+                        "math 5 points":90
+                        "hebrew":88
+                        "english": 86
+                        "bible":95
+                        "sport":70
+                    }
+                   
+                    "name": "Batel"
+                    "grades":
+                    {
+                        "math 5 points":80
+                        "hebrew":90
+                        "english": 100
+                        "bible":95
+                        "sport":50
+                    }
+                }
+      }
+]

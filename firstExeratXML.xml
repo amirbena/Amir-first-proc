@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+<student>
+    <name> Amir</name>
+    <Grade name="math 5 points"> 90</Grade>
+    <Grade name="hebrew"> 88</Grade>
+    <Grade name="english"> 86</Grade>
+    <Grade name="bible"> 95</Grade>
+    <Grade name="sport"> 70</Grade>
+</student>
+    <student>
+    <name> Aviv</name>
+    <Grade name="math 5 points"> 80</Grade>
+    <Grade name="hebrew"> 90</Grade>
+    <Grade name="english"> 100</Grade>
+    <Grade name="bible"> 95</Grade>
+    <Grade name="sport"> 50</Grade>
+</student>
+    </class>
