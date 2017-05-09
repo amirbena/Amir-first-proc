@@ -1,5 +1,6 @@
-[           
-   
+[
+   name:Shazar
+   classes:[
     {
         "name": "Amir"
         "grades":
@@ -10,8 +11,8 @@
         "bible":95
         "sport":70
         }
-    }
-    
+   },
+   
     {
         "name": "Aviv"
         "grades":
